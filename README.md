@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andikanote
-- 👀 I’m interested in QA Engineer & Mobile Engineer
+- 👀 I’m interested in Software Development Engineer Test
 - 🌱 I’m currently learning Data Scientist
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
