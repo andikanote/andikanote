@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andikanote
 - 👀 I’m interested in Software Development Engineer Test
-- 🌱 I’m currently learning Data Engineer
+- 🌱 I’m currently learning Android Engineer
 - 💞️ I’m looking to collaborate on MisterAladin
-- 📫 How to reach me ...
+- 📫 How to reach me dikapranaan@gmail.com
 
 <!---
 andikanote/andikanote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
