@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andikanote
 - 👀 I’m interested in Software Development Engineer Test
 - 🌱 I’m currently learning Android Engineer
-- 💞️ I’m looking to collaborate on MisterAladin
+- 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me dikapranaan@gmail.com
 
 <!---
