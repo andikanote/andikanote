@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andikanote
+- 👋 Hi, I’m Andika
 - 👀 I’m interested in Software Development Engineer Test
 - 🌱 I’m currently learning Anything which grow ups skill
 - 📫 How to reach me dikapranaan@gmail.com
